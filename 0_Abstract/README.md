@@ -1,1 +1,2 @@
-
+# Abstract
+A wiper is a necessary component that cleans raindrops or any other liquid off the vehicle's windscreen. The current system required manual wiper activation,by changing the Speed frequency of wiper. As a results the operation of bringing up the wiper speed is varied . The project's goals are to improve ageing car's systems by giving automated control for wiper system, to improve the system by incorporating a sensor and actuator and to create a simple system framework. This proposed wiper system's principle is comparable to those of other existing conventional wipers. Despite the fact that. This system will be upgraded to an automatic control system using a Peripheral Interface to remove water from the windscreen.
