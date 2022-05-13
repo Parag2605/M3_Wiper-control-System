@@ -19,8 +19,8 @@
 | --- | --- | --- | --- | --- | --- |
 | 01 | Check for ignition_on() | 1st 2sec User Button Press | RED LED ON | RED LED ON | ✅ |
 | 02 | Check for led_cycle1() | 1st User Button Press | All LEDs ON | All LEDs ON-1Hz | ✅ |
-| 03 | Check for led_cycle1() | 1st User Button Press | All LEDs ON | All LEDs ON-2Hz| ✅ |
-| 04 | Check for led_cycle1() | 1st User Button Press | All LEDs ON | All LEDs ON-3Hz | ✅ |
+| 03 | Check for led_cycle1() | 1st User Button Press | All LEDs ON | All LEDs ON-4Hz| ✅ |
+| 04 | Check for led_cycle1() | 1st User Button Press | All LEDs ON | All LEDs ON-8Hz | ✅ |
 | 04 | Check for ignition_off() | 2nd 2sec User Button Press | RED LED OFF | RED LED OFF | ✅ |
 
 | Test ID (for Button Count For Turning Viper on)| Description | Input | Expected output | Actual Output | passed/not |
