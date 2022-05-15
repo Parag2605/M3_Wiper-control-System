@@ -29,7 +29,7 @@ STM32F4O7VG MICROCONTROLLER BOARD
 - This module can be found in a variety of household products.
 
 # SWOT Analysis
-![image](https://user-images.githubusercontent.com/101051467/168249404-b0327752-0719-4992-a4e7-bd58063ff779.png)
+
 
 ## Strength:
 - No need of Human Interaction.
