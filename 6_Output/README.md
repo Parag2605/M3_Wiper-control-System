@@ -13,3 +13,6 @@
 ## Press Button again for 2 sec
 ![image](https://user-images.githubusercontent.com/101051467/168276503-b2d0c0ff-3f13-4dfd-b106-781464aebdf2.png)
 
+## Video
+https://user-images.githubusercontent.com/101051467/168486398-a7bc8f3b-0938-4c12-bb09-41606ceb38ab.mp4
+
